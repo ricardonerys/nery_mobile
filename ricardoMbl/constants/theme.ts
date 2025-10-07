@@ -11,14 +11,14 @@ export const styles= StyleSheet.create({
 container: {
     flexGrow: 1,
     backgroundColor: "#000000",
-    alignItems: "center",       // centraliza horizontalmente
-    justifyContent: "center",   // centraliza verticalmente
+    alignItems: "center",       
+    justifyContent: "center",   
     padding: 20,
   },
 
   content: {
-    alignItems: "center",       // centraliza o texto dentro da View
-    gap: 10,                    // espaçamento entre textos (RN 0.71+)
+    alignItems: "center",       
+    gap: 10,                    
   },
 
   nome: {
@@ -33,7 +33,7 @@ container: {
     alignSelf: "center",
     width: 150,
     height: 150,
-    borderRadius: 40,  // deixa redonda
+    borderRadius: 40,  
     marginBottom: 20,
     borderWidth: 5,
     borderColor: "#fff",
