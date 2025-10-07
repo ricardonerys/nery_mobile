@@ -10,7 +10,7 @@ export const styles= StyleSheet.create({
 
 container: {
     flexGrow: 1,
-    backgroundColor: "#000000",
+    backgroundColor: "#190035ff",
     alignItems: "center",       
     justifyContent: "center",   
     padding: 20,
